@@ -1,6 +1,6 @@
 # ProjectCandeactivate
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+Proyecto sencillo que ilustra como usar el Deactive de angular
 
 ## Development server
 
